@@ -1,0 +1,7 @@
+evaluate==0.4.3
+numpy==2.2.2
+pandas==2.2.3
+torch==2.4.1
+tqdm==4.66.5
+transformers==4.48.0
+wandb==0.19.4
